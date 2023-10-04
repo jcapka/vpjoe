@@ -8601,7 +8601,3 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
-
-*, html {
-	scroll-behavior: smooth !important;
-}
